@@ -1,0 +1,29 @@
+body{
+    margin: 0px 50px 0px 50px;
+}
+h1{
+    text-align: center;
+}
+div{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 20px;
+    
+}
+#one{
+    justify-content: space-evenly;
+    background-color:white;
+
+}
+#two{
+    justify-content: space-around;
+    background-color: rgb(250, 250, 78);
+}
+#three{
+    justify-content: space-evenly;
+    background-color: aqua;
+}
+img.octocat {
+    height: 200px;
+    width: 300px;
+}
